@@ -1,1 +1,1 @@
-# Maze-Game
+# AI Project
